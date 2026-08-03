@@ -1,41 +1,63 @@
-# 📱 Mahdi Mobile Library
+# 📱 Mahdi Mobile Library Mobile
 
-A Flutter mobile application developed for the Mahdi Mobile Library project. The application enables organizations and users to access library services, submit visit requests, stay updated with news and upcoming events, and manage their requests through a simple and user-friendly mobile interface.
+A cross-platform Flutter application developed as part of the **Mahdi Mobile Library** platform. The application enables users to access library services, submit visit requests, track their requests, browse news, and stay updated with upcoming events through an intuitive mobile interface.
 
 ---
 
 ## 📖 About the Project
 
-Mahdi Mobile Library Mobile is the mobile companion application of the Mahdi Mobile Library platform.
+Mahdi Mobile Library Mobile is the client-side mobile application of the Mahdi Mobile Library platform.
 
-The application is connected to the same backend as the web platform, allowing users to access essential library services from their mobile devices.
+It communicates with the Laravel backend through REST APIs, allowing users to access library services directly from their mobile devices.
 
 ---
 
 ## ✨ Features
 
-- User registration and login
-- Submit visit requests
-- View request history
-- Track request status
+- Secure user registration and authentication
+- Submit library visit requests
+- Track request status and history
 - Browse news and announcements
 - View upcoming events
-- Responsive and user-friendly interface
+- Clean and responsive user interface
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 - Flutter
 - Dart
 - REST API
-- Laravel Backend
+- Laravel (Backend)
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+assets/
+android/
+ios/
+web/
+```
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/Osy-Zy/MAHDI-MOBILE-LIBRARY-MOBILE.git
+cd MAHDI-MOBILE-LIBRARY-MOBILE
+flutter pub get
+flutter run
+```
 
 ---
 
 ## 🔗 Related Project
 
-This mobile application is part of the **Mahdi Mobile Library** ecosystem and works with the same backend used by the web platform.
+This application is part of the **Mahdi Mobile Library** ecosystem and works with the same Laravel backend as the web management platform.
 
 ---
 
