@@ -61,6 +61,26 @@ This application is part of the **Mahdi Mobile Library** ecosystem and works wit
 
 ---
 
+## 📸 Screenshots
+
+| Login | Register |
+|--------|----------|
+| ![](screenshots/Login%20Page.png) | ![](screenshots/Register%20Page.png) |
+
+| Welcome | News |
+|---------|------|
+| ![](screenshots/Welcome%20Page.png) | ![](screenshots/News%20Page.png) |
+
+| Request Form (Step 1) | Request Form (Step 2) |
+|-----------------------|-----------------------|
+| ![](screenshots/Request%20Form%20page-1.png) | ![](screenshots/Request%20Form%20page-2.png) |
+
+| My Requests | Upcoming Events |
+|-------------|-----------------|
+| ![](screenshots/My%20Requests.png) | ![](screenshots/Upcoming%20Events.png) |
+
+---
+
 ## 📄 License
 
 Developed as a Bachelor's Capstone Project for educational purposes.
